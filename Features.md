@@ -1,5 +1,3 @@
-# Tyrant
-
 # Football Fusion 2
 https://www.roblox.com/games/8204899140
 
@@ -7,7 +5,8 @@ https://www.roblox.com/games/8204899140
 - Football Magnets
 - Magnet Range: 0 - 25
 - Pull Vector (Power, Range)
+- 
 
-# Configs
+**Configs:**
 - Save Config
 - Load Config
